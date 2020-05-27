@@ -12,6 +12,8 @@ Training intentions
 
 ## Deployment
 
-Sample website with plenty of files for demos
+A simple web project that can be deployed on any web server.
 
 ## How To Contribute
+
+Fork the project into your own repository!
